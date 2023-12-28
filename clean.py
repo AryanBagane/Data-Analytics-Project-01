@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'your_file.csv' with the actual name of your CSV file
-file_path = '/home/user/Desktop/Data Analytics Project/RS_Session_258_AU_923_3.csv'
+file_path = '/home/user/Desktop/Data Analytics Project/Fetched_data.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(file_path)

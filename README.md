@@ -14,10 +14,10 @@ Time Frame: The time frame for the analysis spans from the financial year 2018-1
 
 Potential steps to address this problem:
 
-Data Acquisition: Obtain the relevant datasets containing State/UT-wise training data under PMKVY for the specified time frame.
+Data Acquisition: Obtain the relevant data from web source containing State/UT-wise training data under PMKVY for the specified time frame.
 
 Data Cleaning: Perform necessary cleaning operations to handle missing values, format inconsistencies, or other data quality issues.
 
 Exploratory Data Analysis (EDA): Conduct exploratory analysis to understand trends, patterns, and variations in the training data across different states and over time.
 
-Visualization: Utilize visualizations (such as charts or maps) to effectively communicate insights from the data.
+Visualization: Utilize visualizations to effectively communicate insights from the data.
